@@ -10,5 +10,5 @@ Poopa Kaewbuapan Student ID 64130500226
 - Git CLI, Frameworks and Dependency Hell Practice!
 - Bootsnappy 5, jQuery Libs, CDN Fetch and Fall back!
 - MERN Stack! /w npm pkg manager, Node.js V8 Engine Runtime
-- REST API mapping with CRUD?, XML Docs to HTTP Request
+- REST API mapping with CRUD?, XML Docs to HTTP Request, JSON papa
 
