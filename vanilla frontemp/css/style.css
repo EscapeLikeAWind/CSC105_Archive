@@ -1,0 +1,13 @@
+/* Browser Default Reset */
+
+body {
+    /* html default margin 8px - Full Width Screen*/
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Mobile-first default goes here */
+
+@media only screen and (min-width: 1024px) { }
+
+@media only screen and (min-width: 720px) { }
