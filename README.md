@@ -2,8 +2,6 @@
 
 Playground for CSC105 Web Application Development.
 
-Poopa Kaewbuapan Student ID 64130500226
-
 ## What're we doing here!?
 
 - Trio Web UI Interface with Interactivity! (H5, C3, JS)
